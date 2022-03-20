@@ -4,6 +4,12 @@ My project #task1 in The Sparks Foundation that's "Basic Banking App".
 # Youtube 
 https://youtu.be/P3EmwVs7nLg
 
+# Facebook 
+https://lnkd.in/gHDMmmFK
+
+# LinkedIn
+https://www.linkedin.com/posts/ahmed-7osny_gripfebruary22-gripfeb22-gripfebruary22-activity-6911307697632002048-EPL6?utm_source=linkedin_share&utm_medium=member_desktop_web
+
 # Splash Screen
 ![splash](https://user-images.githubusercontent.com/101954425/159159895-8afdb299-479e-4807-862b-007472510c5d.PNG)
 
