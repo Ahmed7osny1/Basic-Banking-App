@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".UI.Home">
+
+
+    <ImageView
+        android:id="@+id/bankImage"
+        android:layout_width="280dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/bank"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:contentDescription="@string/banking_system_app" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/antonregular"
+        android:text="@string/welcome_nthere"
+        android:textColor="#272727"
+        android:textSize="40sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bankImage"
+        app:layout_constraintVertical_bias="0.051" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/allUser"
+        android:layout_width="360dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="84dp"
+        android:text="@string/all_user"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        android:textColor="@color/white"
+        android:background="@drawable/buttonstyle"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.516"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/AllTransfer"
+            android:layout_width="360dp"
+            android:layout_height="58dp"
+            android:layout_marginTop="50dp"
+            android:text="@string/all_transaction"
+            android:textSize="25sp"
+            android:textStyle="bold|italic"
+            android:textColor="@color/white"
+            android:background="@drawable/buttonstyle"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.516"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/allUser" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+

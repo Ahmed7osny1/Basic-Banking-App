@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bank App</string>
+    <string name="banking_system_app">Banking System App</string>
+    <string name="welcome_nthere">HELLO THERE , \nWELCOME BACK</string>
+    <string name="all_user">All User</string>
+    <string name="all_transaction">All Transaction</string>
+    <string name="mobile">Mobile</string>
+    <string name="ifsc_code">IFSC Code</string>
+    <string name="account_no">Account no</string>
+    <string name="balance">Balance</string>
+    <string name="rs">Rs</string>
+    <string name="transfer">Transfer</string>
+    <string name="enter_amount_of_transfer">Enter amount of transfer</string>
+    <string name="delete_user">Delete User</string>
+    <string name="from">From</string>
+    <string name="amount">Amount</string>
+    <string name="to">To</string>
+    <string name="no_transactions_yet">No Transactions Yet</string>
+</resources>
