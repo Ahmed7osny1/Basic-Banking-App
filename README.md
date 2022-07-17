@@ -1,5 +1,8 @@
 # Basic-Banking-App
 My project #task1 in The Sparks Foundation that's "Basic Banking App".
+#### Transfer money from one user to another, and the amount in their bank account is updated after each transaction.
+#### Record and display on the history page.
+#### technology and languages: Kotlin, Adapter, SQLite, RecycleView, Material Design.
 
 # Youtube 
 https://youtu.be/P3EmwVs7nLg
